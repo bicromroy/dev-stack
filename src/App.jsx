@@ -12,7 +12,7 @@ export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
-    fetch('/src/data/technologies.json')
+    fetch('/technologies.json')
       .then(res => res.json())
       .then(data => {
         setTechnologies(data);
