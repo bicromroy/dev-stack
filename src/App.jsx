@@ -266,4 +266,8 @@ export default function App() {
  R e a c t  
  T o a s t i f y  
  I n t e g r a t e d  
+ / /  
+ F o o t e r  
+ C o m p o n e n t  
+ A d d e d  
  
