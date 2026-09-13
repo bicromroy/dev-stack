@@ -257,4 +257,9 @@ export default function App() {
  G r i d  
  3  
  C o l u m n  
+ / /  
+ Y o u r  
+ S t a c k  
+ S i d e b a r  
+ L o g i c  
  
