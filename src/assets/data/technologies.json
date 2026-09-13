@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "description": "A JavaScript library for building user interfaces.",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "rating": 4.8,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg"
+  },
+  {
+    "id": 2,
+    "name": "Tailwind CSS",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "category": "Styling",
+    "difficulty": "Beginner",
+    "rating": 4.9,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  },
+  {
+    "id": 3,
+    "name": "Node.js",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "rating": 4.7,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "id": 4,
+    "name": "MongoDB",
+    "description": "A NoSQL document database for modern applications.",
+    "category": "Database",
+    "difficulty": "Intermediate",
+    "rating": 4.6,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "id": 5,
+    "name": "TypeScript",
+    "description": "A typed superset of JavaScript that compiles to plain JavaScript.",
+    "category": "Language",
+    "difficulty": "Advanced",
+    "rating": 4.9,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  },
+  {
+    "id": 6,
+    "name": "Vite",
+    "description": "A fast build tool and development server for modern web projects.",
+    "category": "Tooling",
+    "difficulty": "Beginner",
+    "rating": 4.8,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"
+  }
+]
