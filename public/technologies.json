@@ -94,7 +94,7 @@
     "name": "Java",
     "category": "Language",
     "description": "A secure, object-oriented programming language designed for portability and scale.",
-    "icon": "https://cdn.techicons.dev/icons/java.svg",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg",  
     "rating": 4.6,
     "difficulty": "Intermediate",
     "badge": "Robust"
